@@ -6,3 +6,11 @@
   font-family: sans-serif;
   color: white;
 }
+.main {
+  padding: 50px 100px;
+  background-color: aqua;
+  font-size: 38px;
+  color: gray;
+  font-family: sans-serif;
+  text-align: center;
+}
